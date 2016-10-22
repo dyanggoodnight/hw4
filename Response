@@ -1,0 +1,10 @@
+What I learned: 
+- Uploading examples in the system is sending the command to the Arduino board, the computer gives arduino board power to 
+  runing all the command.
+- You can change the speed of the LED blinking by changing the parameter in the example codes.
+- The resistor is the key of change the brightness of an LED.
+- The right connection of the positive and a negative lead is really important.
+
+Question:
+- why the lead is always connect 5V and GND? 
+- what if the I connect of 5V and GND reverse?
